@@ -78,7 +78,8 @@ Al tener numeros en pantalla, se presiona el boton ← para eliminar un numero a
 ### Despues de borrar
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/cc608894-6828-4576-a6f0-c9641ed777e3)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/e9792284-9ff1-4a77-b5f0-33d922f95bc7)
+
 
 
 ## Limpiar la pantalla
@@ -88,12 +89,14 @@ Al tener muchos numeros y operaciones en la pantalla, se presiona el boton C par
 ### Antes de limpiar
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/ccd5d783-33ba-4d2f-a0da-d812cc0f98ac)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/d722101e-ce99-4281-b869-4b3150c1ddd7)
+
 
 ### Despues de limpiar
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/eaac7934-1689-44b5-a2aa-8ea8906dba02)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/0379d1bc-3f8e-4095-a702-18cf9d2cd583)
+
 
 
 ## Negativo de un numero
@@ -103,12 +106,14 @@ Si se quiere que un numero pase a negativo, se hace click en el boton -X
 ### Numero positivo
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/bdd0bc49-630e-467e-99f0-717945c0d5cc)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/55c008e7-6885-4f10-9b71-61ba9a21c37e)
+
 
 ### Luego de presionar el boton
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/d5915070-2301-43ba-8812-03a0886de437)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/6689ea74-cd01-4b4b-8674-df56c1a7db23)
+
 
 
 
