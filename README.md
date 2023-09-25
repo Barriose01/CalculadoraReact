@@ -3,13 +3,14 @@
 Se tiene una calculadora con las operaciones basicas:
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/6522f504-30e7-45e9-8abe-bd394e8bc8c8)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/f7833b97-723d-410b-a41a-b4ac5430b4ce)
 
 
 Si se hace click en los numeros, se mostraran en la pantalla inferior:
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/820a6b4b-0de7-40eb-bcba-dc82001f2b9c)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/20c1d638-50d7-4872-ba9b-f9173f62b240)
+
 
 Se pueden hacer las siguientes operaciones:
 
@@ -20,9 +21,8 @@ Se pueden hacer las siguientes operaciones:
 5) Potenciacion
 6) Raiz cuadrada
 
-   
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/be28eacb-5b2e-450a-897e-cad1e4aad5f4)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/96554e2d-8019-4523-83c3-4cc041e94e75)
 
 
 Ademas, se tienen las siguientes funcionalidades:
@@ -33,7 +33,7 @@ Ademas, se tienen las siguientes funcionalidades:
 4) Igual (Resultado de la operacion)
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/b18aaafc-cb58-40ee-9c41-8b898660f18d)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/442c0ab8-77fc-4b31-9003-2690b38ab41e)
 
 
 # Operaciones basicas
@@ -41,22 +41,26 @@ Ademas, se tienen las siguientes funcionalidades:
 Para realizar operaciones (suma, en este caso), se necesita introducir un numero:
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/b3c6eb38-a95a-47e8-8613-a79f904b9fa7)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/04c127c2-b403-4aa7-93ec-6c89d150ac92)
+
 
 Al momento de presionar el boton de suma (+), se guardara el numero en la pantalla superior, ademas de la operacion que se realizara:
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/a44ae0fc-49a3-48a6-a0a0-a6548781b8b7)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/0e28c92a-755e-4cb5-bf3d-664743a98c53)
+
 
 Se debe introducir otro numero para realizar la operacion:
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/30e750af-b18c-4848-a286-49dd255cff9e)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/0001e8a3-4ba8-4d20-9228-e28e5024bbb3)
+
 
 Al presionar el boton Igual (=), se mostrara el resultado:
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/14d72432-f084-4337-ab25-701a8de695bf)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/5a5dfddb-9452-4e62-afa1-862012a70b62)
+
 
 
 # Funciones adicionales
@@ -68,7 +72,8 @@ Al tener numeros en pantalla, se presiona el boton ← para eliminar un numero a
 ### Antes de borrar
 
 
-![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/077003b9-5f83-440d-a171-732f7dfa01bf)
+![image](https://github.com/Barriose01/CalculadoraReact/assets/107152796/d3491546-fcce-4a98-8200-634118168cf7)
+
 
 ### Despues de borrar
 
